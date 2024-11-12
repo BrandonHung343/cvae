@@ -1,8 +1,10 @@
 Include/ 
 Lib/
 Scripts/
+share/
+__pycache__/
 
 data/
 model/
 
-pyenv.cfg
+pyvenv.cfg
