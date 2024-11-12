@@ -2,4 +2,7 @@ Include/
 Lib/
 Scripts/
 
+data/
+model/
+
 pyenv.cfg
